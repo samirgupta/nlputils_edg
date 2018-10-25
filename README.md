@@ -5,7 +5,7 @@
 - `cd /data/Applications/user_name/` and follow the steps below
 
 ## Check out the repository
-- `git clone https://github.com/leebird/nlputils/`
+- `git clone https://github.com/samirgupta/nlputils_edg/`
 
 ## Initialization
 - Only bash is supported. If you default shell is not bash, run `bash` before running the following steps.
